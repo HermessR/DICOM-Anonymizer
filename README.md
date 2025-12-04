@@ -1,6 +1,6 @@
 # DICOM Anonymizer - PyQt5 GUI Application
 
-A professional, well-organized PyQt5 application for anonymizing DICOM medical images with single file and batch processing capabilities.
+ PyQt5 application for anonymizing DICOM medical images with single file and batch processing capabilities.
 
 ## Features
 
@@ -239,3 +239,4 @@ For issues or questions:
 
 **Version**: 1.0
 **Last Updated**: December 2025
+
